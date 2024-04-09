@@ -1,6 +1,6 @@
 # Table of Contents
 
-* [Password Management](systems-table-of-contents.md)
+* [Password Management](password-management.md)
 
 ## Edit History
 
